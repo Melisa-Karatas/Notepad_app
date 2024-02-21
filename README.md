@@ -2,7 +2,7 @@
 This is a simple desktop Notepad app I created using PyQt5 library in Python.
 ________
 * The username and password to enter this app is melisa and 123456 relatively.
-* 
+  
 ![Ekran görüntüsü 2024-02-21 185639](https://github.com/Melisa-Karatas/Notepad_app/assets/145010761/46a310b3-3a2a-4a11-9b22-70380f8c6eff)
 ![Ekran görüntüsü 2024-02-21 185653](https://github.com/Melisa-Karatas/Notepad_app/assets/145010761/37a9ff8a-182c-41e5-9c61-67a59f41f084)
 
